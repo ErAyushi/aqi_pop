@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 import folium
 from folium.plugins import MarkerCluster
-
+ 
 app = Flask(__name__, static_folder='templates')
 
 
